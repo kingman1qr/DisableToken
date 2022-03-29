@@ -1,0 +1,13 @@
+D:\Source\DisableToken\DisableToken\bin\Debug\DisableToken.exe.config
+D:\Source\DisableToken\DisableToken\bin\Debug\DisableToken.exe
+D:\Source\DisableToken\DisableToken\bin\Debug\DisableToken.pdb
+D:\Source\DisableToken\DisableToken\bin\Debug\Newtonsoft.Json.dll
+D:\Source\DisableToken\DisableToken\bin\Debug\Newtonsoft.Json.xml
+D:\Source\DisableToken\DisableToken\obj\Debug\Disable Token.csproj.SuggestedBindingRedirects.cache
+D:\Source\DisableToken\DisableToken\obj\Debug\DisableToken.Main.resources
+D:\Source\DisableToken\DisableToken\obj\Debug\DisableToken.Properties.Resources.resources
+D:\Source\DisableToken\DisableToken\obj\Debug\Disable Token.csproj.GenerateResource.cache
+D:\Source\DisableToken\DisableToken\obj\Debug\Disable Token.csproj.CoreCompileInputs.cache
+D:\Source\DisableToken\DisableToken\obj\Debug\Disable Token.csproj.CopyComplete
+D:\Source\DisableToken\DisableToken\obj\Debug\DisableToken.exe
+D:\Source\DisableToken\DisableToken\obj\Debug\DisableToken.pdb
